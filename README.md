@@ -17,3 +17,8 @@ This repo contains my **daily learning logs and small coding practices**.
 # daily-code-journal
 “My daily coding practice and learning progress 🧠💻”
 >>>>>>> 2600bbcd74c6381262a1ca01eda03d40d03820a6
+
+
+### 🧠 Day 2 – Quick Update
+- Short on time today, but still committed! 🙌
+- Learning consistency matters more than speed 💪
