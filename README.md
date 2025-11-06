@@ -22,3 +22,8 @@ This repo contains my **daily learning logs and small coding practices**.
 ### 🧠 Day 2 – Quick Update
 - Short on time today, but still committed! 🙌
 - Learning consistency matters more than speed 💪
+
+
+## Day 2 - Progress 💻
+- Learned about CSS basics and selectors.
+- Practiced styling a webpage using fonts, colors, and margins.
