@@ -27,3 +27,9 @@ This repo contains my **daily learning logs and small coding practices**.
 ## Day 2 - Progress 💻
 - Learned about CSS basics and selectors.
 - Practiced styling a webpage using fonts, colors, and margins.
+
+
+## Night Update 🌙
+- Practiced more CSS examples.
+- Tried making a responsive navbar.
+- Slowly getting more confident with layout styling.
