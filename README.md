@@ -33,3 +33,7 @@ This repo contains my **daily learning logs and small coding practices**.
 - Practiced more CSS examples.
 - Tried making a responsive navbar.
 - Slowly getting more confident with layout styling.
+
+
+## Day 3 - 9th Nov 🕘
+- Just staying consistent! Small commit to keep the streak alive 🔥
