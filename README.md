@@ -37,3 +37,8 @@ This repo contains my **daily learning logs and small coding practices**.
 
 ## Day 3 - 9th Nov 🕘
 - Just staying consistent! Small commit to keep the streak alive 🔥
+
+## Night Update 🌙 (9th Nov)
+- Just another consistency push before sleeping 😴
+- Keeping the streak alive 💚
+
