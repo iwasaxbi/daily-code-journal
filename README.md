@@ -42,3 +42,8 @@ This repo contains my **daily learning logs and small coding practices**.
 - Just another consistency push before sleeping 😴
 - Keeping the streak alive 💚
 
+
+## Day 4 - Morning 🌞 (10th Nov)
+- Starting the day with another consistency push ☕
+- Staying regular on GitHub streaks 💚
+
