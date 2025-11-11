@@ -47,3 +47,7 @@ This repo contains my **daily learning logs and small coding practices**.
 - Starting the day with another consistency push ☕
 - Staying regular on GitHub streaks 💚
 
+## Day 5 - Morning 🌞 (11th Nov)
+- Keeping up the daily habit 💪  
+- Just another small consistency push to start the day ☕  
+
