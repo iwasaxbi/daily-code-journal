@@ -55,3 +55,6 @@ This repo contains my **daily learning logs and small coding practices**.
 - Starting the day with a quick consistency push 💚  
 - Maintaining the streak and keeping the motivation up 🚀  
 
+## Day 7 - Update 🌞 (15th Nov)
+- Staying consistent with daily commits 💚  
+- Keeping the momentum strong and learning bit-by-bit 🚀  
