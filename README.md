@@ -62,3 +62,7 @@ This repo contains my **daily learning logs and small coding practices**.
 ## Day 8 - Update 🌞 (16th Nov)
 - Another day, another consistency push 💚  
 - Staying regular to keep the streak alive 🚀  
+
+## Day 9 - Night 🌙 (17th Nov)
+- Ending the day with a quick consistency push 🟩  
+- Daily streak maintained — slow and steady progress 🚀  
