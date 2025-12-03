@@ -70,3 +70,7 @@ This repo contains my **daily learning logs and small coding practices**.
 ## Day 10 - Morning 🌞 (18th Nov)
 - Starting the day with a quick consistency commit 💚  
 - Keeping the GitHub streak alive and strong 🚀  
+
+## Day 11 - Night 🌙 (3rd Dec)
+- Back on track with a consistency push 💚  
+- Restarting the habit and keeping the momentum steady 🚀  
