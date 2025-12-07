@@ -74,3 +74,7 @@ This repo contains my **daily learning logs and small coding practices**.
 ## Day 11 - Night 🌙 (3rd Dec)
 - Back on track with a consistency push 💚  
 - Restarting the habit and keeping the momentum steady 🚀  
+
+## Day 12 - Morning 🌞 (7th Dec, Sunday)
+- Sunday morning consistency push 💚  
+- Slow and steady progress, keeping the habit alive 🚀  
