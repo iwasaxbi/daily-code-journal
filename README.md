@@ -78,3 +78,7 @@ This repo contains my **daily learning logs and small coding practices**.
 ## Day 12 - Morning 🌞 (7th Dec, Sunday)
 - Sunday morning consistency push 💚  
 - Slow and steady progress, keeping the habit alive 🚀  
+
+## Day 13 - Morning 🌞 (8th Dec)
+- Keeping the consistency alive 💚  
+- One more commit to stay on track 🚀  
