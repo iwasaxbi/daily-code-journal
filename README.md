@@ -82,3 +82,7 @@ This repo contains my **daily learning logs and small coding practices**.
 ## Day 13 - Morning 🌞 (8th Dec)
 - Keeping the consistency alive 💚  
 - One more commit to stay on track 🚀  
+
+## Day 14 - Morning 🌞 (9th Dec)
+- Another day, another consistency push 💚  
+- Keeping the streak alive and steady 🚀  
