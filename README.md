@@ -98,3 +98,7 @@ This repo contains my **daily learning logs and small coding practices**.
 ## Update — 31 Dec
 - Ending the year with a consistency commit 💚  
 - Staying active and disciplined on GitHub.
+
+## Update — 2 Jan
+- Starting the year strong with daily consistency 💚  
+- Small steps, long-term discipline.
